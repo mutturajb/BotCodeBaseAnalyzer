@@ -1,0 +1,5 @@
+gradio
+gitpython
+openai
+python-dotenv
+beautifulsoup4
